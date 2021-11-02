@@ -1,19 +1,19 @@
-## Olá meu nome é Lanai!
+## Hey, my name is Lanai!
 
 <div align="center">
   <img height="250px" align="right" src="https://i.ibb.co/VMgH0Lm/c-1-removebg-preview.png" />
   <div align="left" style="display: inline_block">
-    <li> 🔭 Atualmente estudo Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a></li>
-    <li> 🌱 Aprendendo SGBD-MySQL</li>
-    <li> 💬 Me pergunte sobre filmes românticos LGBTQIA+</li>
-    <li> 😄 Pronomes: Ela/Dela</li>
-    <li> ⚡ Fun fact: Regina George é rainha, o resto é nadinha</li>
+    <li> 🔭 Now I am studying Web Development at <a href="https://betrybe.com">Trybe</a></li>
+    <li> 🌱 Learning SGBD-MySQL</li>
+    <li> 💬 Ask me about LGBTQIA+ movies</li>
+    <li> 😄 Pronomes: She/Her</li>
+    <li> ⚡ Fun fact: Mean Girls is my favorite movie</li>
   </div>
 </div>
 
 ---
 
-### Ferramentas e tecnologias que utilizo:
+### Tools and technologies that I use:
 
 <div>
   <img align="center" alt="bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
@@ -28,7 +28,7 @@
 
 ---
 
-### Contato
+### Contact
 
 <div>
   <a href="https://www.linkedin.com/in/lanai-caroline/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
