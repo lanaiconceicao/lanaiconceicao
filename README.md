@@ -3,11 +3,11 @@
 <div align="center">
   <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
   <div align="left" style="display: inline_block">
-    <li>- 🔭 Atualmente estudo Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a></li>
-    <li>- 🌱 Aprendendo SGBD-MySQL</li>
-    <li>- 💬 Me pergunte sobre filmes românticos LGBTQIA+</li>
-    <li>- 😄 Pronomes: Ela/Dela</li>
-    <li>- ⚡ Fun fact: Joguei voleibol por 10 anos</li>
+    <li> 🔭 Atualmente estudo Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a></li>
+    <li> 🌱 Aprendendo SGBD-MySQL</li>
+    <li> 💬 Me pergunte sobre filmes românticos LGBTQIA+</li>
+    <li> 😄 Pronomes: Ela/Dela</li>
+    <li> ⚡ Fun fact: Regina George é rainha, o resto é nadinha</li>
   </div>
 </div>
 
