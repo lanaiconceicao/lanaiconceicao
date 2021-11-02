@@ -1,8 +1,8 @@
 ## Olá meu nome é Lanai!
 
 <div align="center">
-  <img height="150px" align="right" src="https://i.ibb.co/xJHNWV9/c-removebg-preview.png" />
-  <div align="center" style="display: inline_block">
+  <img height="350px" align="right" src="https://i.ibb.co/xJHNWV9/c-removebg-preview.png" />
+  <div align="left" style="display: inline_block">
     <li> 🔭 Atualmente estudo Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a></li>
     <li> 🌱 Aprendendo SGBD-MySQL</li>
     <li> 💬 Me pergunte sobre filmes românticos LGBTQIA+</li>
