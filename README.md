@@ -1,7 +1,7 @@
 ## Olá meu nome é Lanai!
 
 <div align="center">
-  <img height="350px" align="right" src="https://i.ibb.co/VMgH0Lm/c-1-removebg-preview.png" />
+  <img height="250px" align="right" src="https://i.ibb.co/VMgH0Lm/c-1-removebg-preview.png" />
   <div align="left" style="display: inline_block">
     <li> 🔭 Atualmente estudo Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a></li>
     <li> 🌱 Aprendendo SGBD-MySQL</li>
