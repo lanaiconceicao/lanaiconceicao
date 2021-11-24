@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/lanai-caroline/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:conceicaolanai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/lanaiconceicao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="[link para seu discord]" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR61MqGzBR_2-LYA_Gif-_t41Dwaivf55i4rg&usqp=CAU&logoColor=white" target="_blank"></a>
+  <a href="https://lanaiconceicao.vercel.app/" target="_blank"><img src="♥" target="_blank"></a>
 </div>
 
 
