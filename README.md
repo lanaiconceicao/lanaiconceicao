@@ -4,7 +4,7 @@
   <img height="250px" align="right" src="https://i.ibb.co/VMgH0Lm/c-1-removebg-preview.png" />
   <div align="left" style="display: inline_block">
     <li> 🔭 Now I am studying Web Development at <a href="https://betrybe.com">Trybe</a></li>
-    <li> 🌱 Learning Docker</li>
+    <li> 🌱 Learning Typescript</li>
     <li> 💬 Ask me about LGBTQIA+ movies</li>
     <li> 😄 Pronomes: She/Her</li>
     <li> ⚡ Fun fact: Mean Girls is my favorite movie</li>
